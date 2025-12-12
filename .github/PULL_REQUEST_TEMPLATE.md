@@ -1,4 +1,5 @@
 Click the `Preview` tab and select a PR template:
 
-- [Standard change](?expand=1&template=standard-change.md)
-- [Small change](?expand=1&template=small-change.md)
+- [Modify release permission](?expand=1&template=modify_release_permission.md)
+- [Enable CD](?expand=1&template=enable_cd.md)
+- [Other](?expand=1&template=other.md) (Only for hosting team members)
