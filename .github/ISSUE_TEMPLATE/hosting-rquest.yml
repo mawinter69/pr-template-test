@@ -59,8 +59,8 @@ body:
         - "No"
     validations:
       required: true
-  - type: markdown
+  - type: checkboxes
     attributes:
-      value: |
-        Checks to perform:
-        - [ ] I confirm I don't have hard coded colors and the UI works well with theme plugins like https://plugins.jenkins.io/dark-theme/
+      label: UI checks to perform
+      options:
+        - label: I have verfiied that the plugin works properly with theme plugins, e.g. https://plugins.jenkins.io/dark-theme/
