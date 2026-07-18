@@ -64,3 +64,4 @@ body:
       label: UI checks to perform
       options:
         - label: I have verfiied that the plugin works properly with theme plugins, e.g. https://plugins.jenkins.io/dark-theme/
+        - label: I'm following the design principles from the [Design Library](https://weekly.ci.jenkins.io/design-library/)
